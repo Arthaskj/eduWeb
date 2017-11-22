@@ -1,0 +1,199 @@
+@charset "UTF-8";
+.hxdemo_head {
+  position: absolute;
+  width: 7.73333333rem;
+  height: 1.06666667rem;
+  padding: 0 0.4rem;
+  overflow: hidden;
+  box-shadow: none;
+  border-radius: 0.13333333rem;
+  margin: 2.36rem 0 0 1.08rem;
+  z-index: 999;
+  background: #ffffff;
+}
+.hxdemo_head > .menu_head {
+  display: inline-block;
+  width: 0.16rem;
+  height: 0.09333333rem;
+  vertical-align: middle;
+  margin: 0 0.13333333rem;
+}
+.hxdemo_head > .headB {
+  display: inline-block;
+  line-height: 1.06666667rem;
+  color: #000;
+  font-size: 0.34666667rem;
+}
+.hxdemo_head > .headB2 {
+  position: absolute;
+  display: inline-block;
+  width: 0;
+  height: 80%;
+  border: 1px solid #dcdcdc;
+  margin: 0 0.26666667rem;
+}
+.hxdemo_head > .head_text {
+  width: 7.73333333rem;
+  height: 1.06666667rem;
+  text-indent: 3px;
+  margin-left: 2rem;
+  color: #999;
+  outline: none;
+}
+.hxdemo_head > .head_text .searchicon {
+  display: inline-block;
+  width: 10%;
+  height: 100%;
+  font-size: 0.45333333rem;
+  text-align: center;
+  line-height: 1.06666667rem;
+  font-weight: bold;
+}
+.hxdemo_head > .head_text p {
+  width: 70%;
+  height: 100%;
+  line-height: 1.06666667rem;
+  font-size: 0.34666667rem;
+  display: inline-block;
+}
+.photo_banner {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background: #fff;
+}
+.photo_banner > img {
+  width: 100%;
+  height: 100%;
+}
+.content1 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.content1 > .icon {
+  position: relative;
+  width: 100%;
+  height: 2.90666667rem;
+  overflow: hidden;
+  background: #fff;
+}
+.content1 > .icon > ul {
+  width: 100%;
+  height: 2.90666667rem;
+}
+.content1 > .icon > ul > li {
+  text-align: center;
+  width: 25%;
+  height: 2.90666667rem;
+}
+.content1 > .icon > ul > li > img {
+  text-align: center;
+  display: block;
+  width: 1.33333333rem;
+  height: 1.33333333rem;
+  margin: 0.26666667rem auto;
+}
+.content1 > .icon > ul > li > span {
+  font-size: 0.34666667rem;
+  color: #444;
+  text-align: center;
+}
+.content1 > .culture {
+  position: relative;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin: 0.33333333rem 0;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+  background: #fff;
+}
+.content1 > .culture > span {
+  display: block;
+  width: 100%;
+  height: 1.02666667rem;
+  padding: 0 0.4rem;
+  font-size: 0.37333333rem;
+  color: #333;
+  line-height: 1.02666667rem;
+  border-bottom: 1px solid #dcdcdc;
+  box-sizing: border-box;
+}
+.content1 > .culture > span > b {
+  color: #bbb;
+  float: right;
+}
+.content1 > .culture > ul {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  padding: 0 0.4rem;
+}
+.content1 > .culture > ul > li {
+  width: 100%;
+  height: 2.70666667rem;
+  padding: 0.33333333rem;
+  border-bottom: 1px solid #dcdcdc;
+}
+.content1 > .culture > ul > li > img {
+  display: inline-block;
+  width: 2.08rem;
+  height: 2.08rem;
+}
+.content1 > .culture > ul > li > .culText {
+  display: inline-block;
+  width: 5.33333333rem;
+  height: 100%;
+  margin-left: 0.4rem;
+}
+.content1 > .culture > ul > li > .culText > b {
+  display: block;
+}
+.content1 > .culture > ul > li > .culText > .culB1 {
+  font-size: 0.41333333rem;
+  color: #333;
+}
+.content1 > .culture > ul > li > .culText > .culB2 {
+  width: 1.09333333rem;
+  height: 0.4rem;
+  margin: 0.26666667rem 0 0.21333333rem 0;
+  color: #b8123e;
+  font-size: 0.26666667rem;
+  text-align: center;
+  line-height: 0.4rem;
+  border: 1px solid #b8123e;
+}
+.content1 > .culture > ul > li > .culText > ul {
+  width: 100%;
+}
+.content1 > .culture > ul > li > .culText > ul > li {
+  font-size: 0.32rem;
+  width: 50%;
+  color: #666;
+  margin: 0 0 0.21333333rem 0;
+}
+.footer {
+  width: 100%;
+  height: 1.44rem;
+}
+.footer > ul {
+  width: 100%;
+  height: 1.44rem;
+}
+.footer > ul > li {
+  text-align: center;
+  width: 25%;
+  height: 1.44rem;
+}
+.footer > ul > li > img {
+  width: 0.66666667rem;
+  height: 0.66666667rem;
+  margin: 0.24rem 0 0.16rem 0;
+}
+.footer > ul > li > p {
+  font-size: 0.24rem;
+  color: #444;
+}
